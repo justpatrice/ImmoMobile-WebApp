@@ -1,0 +1,141 @@
+[
+	{
+		"name": "Luzern",
+		"plz": "6005",
+		"ort": "Luzern",
+		"kanton": "LU",
+		"anzahlEinwohner": "86000",
+		"beschreibung": "Die Stadt Luzern liegt am nordwestlichen Ufer des Vierwaldstättersees beim Ausfluss der Reuss. Die Reuss teilt die Stadt in die Altstadt und Neustadt. Die Kapellbrücke mit dem Wasserturm und die Spreuerbrücke verbinden die Alt- und Neustadt. Zu Luzern gehört auch die Exklave Bürgenstock. Die Lage zwischen See und den Bergen Pilatus und Rigi ist besonders malerisch und begünstigte die Entwicklung Luzerns als Fremdenstadt und frühe Hochburg des Tourismus ab 1840.",
+		"url": "www.stadtluzern.ch/de/",
+		"steuerfuss": "1.85",
+		"infrastruktur": {
+			"einkaufsmoeglichkeiten": "true",
+			"spital": "true",
+			"kindergarten": "true",
+			"primarschule": "true",
+			"sekundarschule": "true",
+			"kantonsschule": "true",
+			"hochschule": "true",
+			"universitaet": "true"
+		},
+
+		
+		"bilder": {
+			"0": "img/gemeinden/Luzern1.jpg",
+			"1": "img/gemeinden/Luzern2.jpg",
+			"2": "img/gemeinden/Luzern3.jpg"
+		}
+	},
+
+	{
+		"name": "Meggen",
+		"plz": "6045",
+		"ort": "Luzern",
+		"kanton": "LU",
+		"anzahlEinwohner": "6853",
+		"beschreibung": "Meggen liegt zwischen dem Vierwaldstättersee und dem Meggerberg. Im Osten grenzt der Ort an den Kanton Schwyz. Der südwestlich-nordöstlich verlaufende Meggerberg ist nahe dem Grat vom Meggerwald bedeckt. Am unteren Hang und am See gibt es keine Waldflächen. Der Ort besteht aus etlichen Quartieren, die früher separate Weiler waren. Im Westen der Gemeinde sind die wichtigsten die Flossenmatt, die Krusenweid und Lerchenbühl am Seeufer.",
+		"url": "www.meggen.ch",
+		"steuerfuss": "0.98",
+		"infrastruktur": {
+			"einkaufsmoeglichkeiten": "true",
+			"spital": "false",
+			"kindergarten": "true",
+			"primarschule": "true",
+			"sekundarschule": "true",
+			"kantonsschule": "false",
+			"hochschule": "false",
+			"universitaet": "false"
+		},
+
+		
+		"bilder": {
+			"0": "img/gemeinden/Meggen1.jpg",
+			"1": "img/gemeinden/Meggen2.jpg",
+			"2": "img/gemeinden/Meggen3.jpg"
+		}
+	},
+
+	{
+		"name": "Küssnacht",
+		"plz": "6403",
+		"ort": "Schwyz",
+		"kanton": "SZ",
+		"anzahlEinwohner": "12374",
+		"beschreibung": "Die Gemeinde Küssnacht besteht aus den Ortschaften Küssnacht mit dem Weiler Haltikon, Immensee und Merlischachen. Die Nachbargemeinden sind Udligenswil, Adligenswil, Meggen, Greppen, Arth, Meierskappel, Risch sowie über dem Zugersee Walchwil.",
+		"url": "www.kuessnacht.ch",
+		"steuerfuss": "0.77",
+		"infrastruktur": {
+			"einkaufsmoeglichkeiten": "true",
+			"spital": "false",
+			"kindergarten": "true",
+			"primarschule": "true",
+			"sekundarschule": "true",
+			"kantonsschule": "false",
+			"hochschule": "false",
+			"universitaet": "false"
+		},
+
+		
+		"bilder": {
+			"0": "img/gemeinden/Küssnacht1.jpg",
+			"1": "img/gemeinden/Küssnacht2.jpg",
+			"2": "img/gemeinden/Küssnacht3.jpg"
+		}
+	},
+
+	{
+		"name": "Greppen",
+		"plz": "6404",
+		"ort": "Luzern",
+		"kanton": "LU",
+		"anzahlEinwohner": "1036",
+		"beschreibung": "Greppen liegt am Vierwaldstättersee, am östlichen Ufer des Küssnachter Arms am Fuss der Rigi. Greppen dehnt sich vom Vierwaldstättersee auf den Westhang der Rigi bis unterhalb von Rigi-Staffel (1400 m ü. M.) aus. Vom Gemeindegebiet sind nur 330 ha Landfläche, der Rest ist Seeanteil. Von der Landfläche werden 50,9 % landwirtschaftlich genutzt, 39,7 % sind Wald und Gehölz und nur 9,4 % Siedlungsfläche. Das Gebiet Breitenacherried steht unter Naturschutz.",
+		"url": "www.greppen.ch",
+		"steuerfuss": "1.5",
+		"infrastruktur": {
+			"einkaufsmoeglichkeiten": "true",
+			"spital": "false",
+			"kindergarten": "false",
+			"primarschule": "false",
+			"sekundarschule": "false",
+			"kantonsschule": "false",
+			"hochschule": "false",
+			"universitaet": "false"
+		},
+
+		
+		"bilder": {
+			"0": "img/gemeinden/Greppen1.jpg",
+			"1": "img/gemeinden/Greppen2.jpg",
+			"2": "img/gemeinden/Greppen3.jpg"
+		}
+	},
+
+	{
+		"name": "Weggis",
+		"plz": "6353",
+		"ort": "Luzern",
+		"kanton": "LU",
+		"anzahlEinwohner": "4326",
+		"beschreibung": "Weggis liegt in einer nach ihm benannten Ausbuchtung (Rigibucht) des Vierwaldstättersees am Südwestfuss der Rigi. Der Ort hat ein ausgesprochen mildes Klima und ist bekannt für das Gedeihen von zahlreichen südlichen Pflanzen (u. a. Kastanienbäume, Palmen, Weintrauben und Orchideen).Das Dorf Weggis liegt auf einer in Südrichtung gelegenen Ebene am Ufer des Vierwaldstättersees. ",
+		"url": "www.weggis.ch",
+		"steuerfuss": "1.55",
+		"infrastruktur": {
+			"einkaufsmoeglichkeiten": "true",
+			"spital": "false",
+			"kindergarten": "true",
+			"primarschule": "true",
+			"sekundarschule": "true",
+			"kantonsschule": "false",
+			"hochschule": "false",
+			"universitaet": "false"
+		},
+
+		
+		"bilder": {
+			"0": "img/gemeinden/Weggis1.jpg",
+			"1": "img/gemeinden/Weggis2.jpg",
+			"2": "img/gemeinden/Weggis3.jpg"
+		}
+	}
+]

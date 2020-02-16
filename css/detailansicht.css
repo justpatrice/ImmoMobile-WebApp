@@ -1,0 +1,285 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+html, body {
+	margin: 0;
+	padding: 0;
+	border: none;
+	outline: 0;
+	background: #EEEEEE;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 400;
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	font-size: 56px;
+	line-height: 1.2em;
+	font-weight: 400;
+}
+
+h2 {
+	font-size: 34px;
+	line-height: 1.2em;
+	font-weight: 400;
+}
+
+h3 {
+	font-size: 24px;
+	line-height: 1.2em;
+	font-weight: 400;
+}
+
+h4 {
+	font-size: 20px;
+	line-height: 1.2em;
+	font-weight: 500;
+}
+
+h5 {
+	font-size: 16px;
+	line-height: 1.2em;
+	font-weight: 400;
+}
+
+h6 {
+	font-size: 14px;
+	line-height: 1.2em;
+	font-weight: 400;
+}
+
+p {
+	font-size: 16px;
+	line-height: 1.2em;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+/*Detail view styling*/
+.card-container {
+	background-color: white;
+	margin: 1em 1em 3em 1em;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+/*Immobilien styling*/
+.immo-container {
+	
+}
+
+.immotitle-container {
+	padding: 1em;
+	text-align: left;
+}
+
+.immotitle-container h3 {
+	margin: 0;
+}
+
+.immodescription-container {
+	padding: 1em;
+}
+
+.immodetail-container {
+	padding: 1em;
+	background-color: white;
+	margin: 2em 0em 2.25em 0em;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+}
+
+.immodetail-container:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.immodetail-container p {
+	margin: 0.5em;
+}
+
+.immoequip-container {
+	padding: 1em;
+	background-color: white;
+	margin: 2em 0em 2.5em 0em;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+}
+
+.immoequip-container:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.immoequip-container p {
+	margin: 0.5em;
+}
+
+.immomap-container {
+	padding: 1em;
+	background-color: white;
+	margin: 2em 0em 2.5em 0em;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+}
+
+.immomap-container h4 {
+	padding: 1em;
+}
+
+.immocontact-container {
+	padding: 1em;
+	background-color: white;
+	margin: 2em 0em 2.5em 0em;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+}
+
+.immocontact-container:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/*Gemeinden styling*/
+.gemeinde-container {
+	
+}
+
+.gemeindetitle-container {
+	padding: 1em;
+	text-align: left;
+}
+
+.gemeindedescription-container {
+	padding: 1em;
+	background: ;
+}
+
+.gemeindedetail-container {
+	padding: 1em;
+}
+
+.gemeindedetail-container ul{
+	padding: 0.5em;
+}
+
+.gemeindeimg-container {
+	padding: 10px;
+}
+
+
+
+
+
+
+
+/*Swiper styling*/
+.slider-container {
+	width: 100%;
+	height: 250px;
+}
+
+.slider {
+	text-align: center;
+	font-size: 18px;
+	background: #fff;
+	/* Center slide text vertically */
+
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+}
+
+.slide img {
+	width: 100%;
+}
+
+.btn {
+  position: relative;
+
+  display: block;
+  margin: 30px auto;
+  padding: 0;
+
+  overflow: hidden;
+
+  border-width: 0;
+  outline: none;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+  
+  background-color: #d6a839;
+  color: #ecf0f1;
+  
+  transition: background-color .3s;
+}
+
+.btn a {
+  color: black;
+}
+
+.btn:hover, .btn:focus {
+  background-color: #d6a839;
+}
+
+.btn > * {
+  position: relative;
+}
+
+.btn span {
+  display: block;
+  padding: 12px 24px;
+}
+
+.btn:before {
+  content: "";
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+  display: block;
+  width: 0;
+  padding-top: 0;
+    
+  border-radius: 100%;
+  
+  background-color: rgba(236, 240, 241, .3);
+  
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.btn:active:before {
+  width: 120%;
+  padding-top: 120%;
+  
+  transition: width .2s ease-out, padding-top .2s ease-out;
+}

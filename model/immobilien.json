@@ -1,0 +1,436 @@
+[
+  {
+	"objektart": "Haus",
+	"titel": "Trouvaille im Wesemlin-Quartier",
+	"beschreibung": "Die Liegenschaft aus der Jahrhundertwende (Baujahr 1905) ist das wohl aussergewöhnlichste Jugendstil-Haus auf Stadt Luzerner Boden. Mit grösster Sorgfalt wurde das Haus Heimeli während 2 Jahren (2000-2002) in enger Zusammenarbeit mit der Denkmalpflege umfassend und aufwändig restauriert - eine Augenweide mit zahlreichen Details vom Gartengeschoss bis zum Dachstock. Im Rahmen der Sanierungsarbeiten (2000-2002) wurde im Gartengeschoss eine 3.5-Zimmer-Einliegerwohnung eingebaut. Diese Wohnung ist seit Abschluss der Arbeiten zu CHF 19'800/Jahr (Nettomiete) vermietet.",
+	"adresse": {
+	  "strasse": "Steigerweg",
+	  "hausnummer": "15",
+	  "gemeinde": "Luzern",
+	  "plz": "6005"
+	},
+	"position": {
+	  "longitude": "8.31821",
+	  "latitude": "47.059711"
+	},
+	"preis": "5900000",
+	"anzahlZimmer": "13",
+	"wohnflaeche": "540",
+	"grundstuecksflaeche": "1455",
+	"verfuegbarkeit": "Auf Anfrage",
+	"baujahr": "1905",
+	"ausstattung": {
+	  "lift": "true",
+	  "balkon": "true",
+	  "garten": "true"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Wesemlin1.jpg",
+	  "1": "img/immobilien/Wesemlin2.jpg",
+	  "2": "img/immobilien/Wesemlin3.jpg"
+	}
+  },
+  {
+	"objektart": "Wohnung",
+	"titel": "Wohntraum am Gigeliwald",
+	"beschreibung": "Ein perfekter Ausgleich zwischen Natur und Stadt, Erholung und Trubel, Modern und Historisch - das Objekt befindet sich in einem ruhigen Wohnquartier am Sonnenberg. Es erwarten Sie zahlreiche Ausflugsmöglichkeiten, ob mit der Fahrt im blauen Bähnli auf den Sonnenberg, oder eine aktive Wandertour auf den markierten Spazier- Wander- und Joggingwegen, hier können Sie sich sportlich fit halten und gleichzeitig die imposante Rundsicht geniessen.",
+	"adresse": {
+	  "strasse": "Steinhofhalde",
+	  "hausnummer": "16",
+	  "gemeinde": "Luzern",
+	  "plz": "6005"
+	},
+	"position": {
+	  "longitude": "8.293433",
+	  "latitude": "47.042638"
+	},
+	"preis": "1990000",
+	"anzahlZimmer": "4.5",
+	"wohnflaeche": "161",
+	"grundstuecksflaeche": "keine Angabe",
+	"verfuegbarkeit": "Auf Anfrage",
+	"baujahr": "2017",
+	"ausstattung": {
+	  "lift": "true",
+	  "balkon": "true",
+	  "garten": "true"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Gigeliwald1.jpg",
+	  "1": "img/immobilien/Gigeliwald2.jpg",
+	  "2": "img/immobilien/Gigeliwald3.jpg"
+	}
+  },
+  {
+	"objektart": "Haus",
+	"titel": "Trouvaille mit Seeanstoss und Bootshaus am Vierwaldstättersee",
+	"beschreibung": "Luzerns Charme ist legendär! Jahrhunderte alte Sehenswürdigkeiten, Museen, Theater und Festivals machen Luzern zu einer aussergewöhnlichen Kulturstadt. Wer das malerische Alpenpanorama und die besonderen Aspekte der Seelandschaft mag, ist hier bestens aufgehoben. Dank der guten Verkehrserschliessung, dem kurzen Autobahnweg nach Zug und Zürich geniesst die Wohnstadt eine attraktive, zentrale Lage.Am rechten Seeufer des Vierwaldstädtersees, ca. 2 km fern ab der Innenstadt, lädt die Umgebung zum Ausgleich und Erholung ein. Lange Uferwege mit traumhafter Bergkulisse, Bootshafen sowie Tennisplätze gehören ebenso zu den Vorzügen dieser privilegierten Wohngegend.Freuen Sie sich auf ein Anwesen der besonderen Art mit direktem Seezugang und Bootshaus. Genau das Richtige für Menschen mit gehobenen Ansprüchen, die sich Zuhause wie im Urlaub fühlen möchten und ungestörtes Wohnen mit einer ausgezeichneten Infrastruktur schätzen. Das gut besonnte, 1120 m2 grosse Grundstück mit gepflegter Grünfläche und altem Baumbestand öffnet sich gegen die See- und Bergwelt und gewährt mit dem einmaligen Ausblick ein magisches Ambiente.",
+	"adresse": {
+	  "strasse": "Seeburgstrasse",
+	  "hausnummer": "60",
+	  "gemeinde": "Luzern",
+	  "plz": "6005"
+	},
+	"position": {
+	  "longitude": "8.347635",
+	  "latitude": "47.044783"
+	},
+	"preis": "9500000",
+	"anzahlZimmer": "7.5",
+	"wohnflaeche": "323",
+	"grundstuecksflaeche": "1120",
+	"verfuegbarkeit": "Auf Anfrage",
+	"baujahr": "1932",
+	"ausstattung": {
+	  "lift": "false",
+	  "balkon": "true",
+	  "garten": "true"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Seeburgstrasse1.jpg",
+	  "1": "img/immobilien/Seeburgstrasse2.jpg",
+	  "2": "img/immobilien/Seeburgstrasse3.jpg"
+	}
+  },
+  {
+	"objektart": "Wohnung",
+	"titel": "Hier wird ihr Herz höher schlagen!",
+	"beschreibung": "An privilegierter, sonniger Hanglage mit einer unverbaubaren Aussicht auf den Vierwaldstättersee und die Berglandschaft, befindet sich diese grosszügige 6.5 Zimmer Attika-Maisonette-Wohnung. Es erwartet Sie ein unvergleichliches Wohngefühl mit hochwertigen Innenausbau auf über 254m2 Wohnfläche.Ein edler Marmorboden, welcher sich über den ganzen Wohn- und Essbereich erstreckt sowie die raumhohen Panoramafenster tragen zum Wohlfühl-Ambiente bei. Das elegante Cheminée und das moderne Glasgelände, welches die obere und untere Etage verbindet, sind weitere architektonische Details.",
+	"adresse": {
+	  "strasse": "Salzfasshoehe",
+	  "hausnummer": "19",
+	  "gemeinde": "Luzern",
+	  "plz": "6005"
+	},
+	"position": {
+	  "longitude": "8.348749",
+	  "latitude": "47.046524"
+	},
+	"preis": "3100000",
+	"anzahlZimmer": "6.5",
+	"wohnflaeche": "324",
+	"grundstuecksflaeche": "keine Angabe",
+	"verfuegbarkeit": "Auf Anfrage",
+	"baujahr": "1988",
+	"ausstattung": {
+	  "lift": "false",
+	  "balkon": "true",
+	  "garten": "true"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Salzfasshoehe1.jpg",
+	  "1": "img/immobilien/Salzfasshoehe2.jpg",
+	  "2": "img/immobilien/Salzfasshoehe3.jpg"
+	}
+  },
+  {
+	"objektart": "Haus",
+	"titel": "Neue, exklusive 7.5 Zimmer-Villa",
+	"beschreibung": "In Meggen wohnen Sie stadtnah und können gleichzeitig eine spektakuläre See- und Gebirgslandschaft bewundern. Die Skyline beeindruckt mit einem eindru?cklichen Panorama: Rigi, Pilatus und Bu?rgenstock. An dieser einizigartigen Su?dlage erleben Sie die Natur in allen Stimmungen, Wetterlagen und Jahreszeiten.",
+	"adresse": {
+	  "strasse": "Spissenrain",
+	  "hausnummer": "4",
+	  "gemeinde": "Meggen",
+	  "plz": "6045"
+	},
+	"position": {
+	  "longitude": "8.379637",
+	  "latitude": "47.056146"
+	},
+	"preis": "5100000",
+	"anzahlZimmer": "7.5",
+	"wohnflaeche": "309",
+	"grundstuecksflaeche": "819",
+	"verfuegbarkeit": "Auf Anfrage",
+	"baujahr": "2017",
+	"ausstattung": {
+	  "lift": "true",
+	  "balkon": "true",
+	  "garten": "true"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Spissenstrasse1.jpg",
+	  "1": "img/immobilien/Spissenstrasse2.jpg",
+	  "2": "img/immobilien/Spissenstrasse3.jpg"
+	}
+  },
+  {
+	"objektart": "Wohnung",
+	"titel": "Attikawohnung mit See- und Bergsicht",
+	"beschreibung": "Die nach Süden ausgerichtete luxuriöse Attikawohnung, liegt an leicht erhöhter Hanglage und verfügt über eine optimale Besonnung mit einer Panoramasicht von der Rigi bis zum Pilatus.Das Naherholungsgebiet, der Golfplatz und die Haltestellen des öffentlichen Verkehrs sind in ein paar Fussminuten zu erreichen. Der Golfplatz ermöglicht einem durch ein teilweise neu erschlossenes, traumhaftes Gebiet zu spazieren oder schon bald die Bälle abzuschlagen.Diese 153 m2 gosse, luxuriöse 4,5 Zimmerwohnung aus dem Jahr 2006 besticht durch ein edles Design und eine sorgfältig ausgesuchte Materialwahl mit hoher Qualität.Für gemütliche Stunden sorgt ein Cheminée im Wohn- und Esszimmer. Das Wohnzimmer ist mit einer Klimaanlage ausgestattet.Die Küche ist äusserst geräumig und gut eingeteilt. Sie ist mit einem Wok, einem Teppanyaki, einer Eismaschine und vielen weiteren Geräten ausgestattet.Ein exklusives B & O Soundsystem in allen Räumen und eingebautem TV im Wohnzimmer, kann auf Wunsch erworben werden.Die vielen Einbauschränke sind in einer Raumhöhe von 2.51 m angefertigt worden.In der Wohnung integriert sind die Waschmaschine und der Trockner.Die Alarmanlage mit ihrer telefonischen Übermittlung sorgt für Ihre Sicherheit.Für die Pflanzen auf der Terrasse ist eine automatische Bewässerungsanlage eingerichtet.Im Whirlpool können Sie zu jeder Jahreszeit die herrliche Aussicht geniessen.Ein 40 m2 grosser Keller- und Trocknungsraum mit einem Luftentfeuchter sowie zwei Parkplätze in der Tiefgarage runden das Angebot ab.",
+	"adresse": {
+	  "strasse": "Kreuzbuchstrasse",
+	  "hausnummer": "60",
+	  "gemeinde": "Meggen",
+	  "plz": "6045"
+	},
+	"position": {
+	  "longitude": "8.371296",
+	  "latitude": "47.050237"
+	},
+	"preis": "2000000",
+	"anzahlZimmer": "4.5",
+	"wohnflaeche": "153",
+	"grundstuecksflaeche": "keine Angabe",
+	"verfuegbarkeit": "Sofort",
+	"baujahr": "2005",
+	"ausstattung": {
+	  "lift": "true",
+	  "balkon": "true",
+	  "garten": "true"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Kreuzbuchstrasse1.jpg",
+	  "1": "img/immobilien/Kreuzbuchstrasse2.jpg",
+	  "2": "img/immobilien/Kreuzbuchstrasse3.jpg"
+	}
+  },
+    {
+	"objektart": "Wohnung",
+	"titel": "Exklusive Lage mit Seesicht - Terrassenresizenz",
+	"beschreibung": "Es erwarten Sie Eigentumswohnungen mit ansprechender Raumgestaltung und modernen, hochwertigen Innenausbauten.",
+	"adresse": {
+	  "strasse": "Pilatusstrasse",
+	  "hausnummer": "2",
+	  "gemeinde": "Meggen",
+	  "plz": "6045"
+	},
+	"position": {
+	  "longitude": "8.388707",
+	  "latitude": "47.057797"
+	},
+	"preis": "3050000",
+	"anzahlZimmer": "4.5",
+	"wohnflaeche": "198",
+	"grundstuecksflaeche": "keine Angabe",
+	"verfuegbarkeit": "keine Angabe",
+	"baujahr": "2012",
+	"ausstattung": {
+	  "lift": "true",
+	  "balkon": "true",
+	  "garten": "false"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Pilatusstrasse1.jpg",
+	  "1": "img/immobilien/Pilatusstrasse2.jpg",
+	  "2": "img/immobilien/Pilatusstrasse3.jpg"
+	}
+  },
+  {
+	"objektart": "Haus",
+	"titel": "Eckhaus mit traumhafter Aussicht und einem prächtigen Badeplatz",
+	"beschreibung": "Das 6½-Zimmer-Eckhaus liegt an begehrter Lage mit grossartiger See- und Bergsicht. Der Balkon im Obergeschoss und der zum Teil gedeckte Gartensitzplatz bieten Ihnen eine unverbaubare und absolut einzigartige Sicht auf den Vierwaldstättersee und das faszinierende Bergpanorama. Der dazugehörende Badeplatz ist ein absolutes Bijou. Gönnen Sie sich nach einem anstrengenden Arbeitstag ein Bad im See oder eine Runde mit dem Stand Up Paddle.",
+	"adresse": {
+	  "strasse": "Schwiffweg",
+	  "hausnummer": "23",
+	  "gemeinde": "Kuessnacht",
+	  "plz": "6403"
+	},
+	"position": {
+	  "longitude": "8.423275",
+	  "latitude": "47.071773"
+	},
+	"preis": "1700000",
+	"anzahlZimmer": "6.5",
+	"wohnflaeche": "163",
+	"grundstuecksflaeche": "keine Angabe",
+	"verfuegbarkeit": "auf Anfrage",
+	"baujahr": "1976",
+	"ausstattung": {
+	  "lift": "false",
+	  "balkon": "true",
+	  "garten": "true"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Schiffweg1.jpg",
+	  "1": "img/immobilien/Schiffweg2.jpg",
+	  "2": "img/immobilien/Schiffweg3.jpg"
+	}
+  },
+  {
+	"objektart": "Wohnung",
+	"titel": "5.5-Zimmer Terrassenwohnung mit Seesicht und privatem Badeplatz",
+	"beschreibung": "Geniessen Sie von mehreren Zimmern sowie der grosszügigen Terrasse eine unverbaubare Panoramasicht über den Vierwaldstättersee und die umliegenden Berge. Als Anwohner haben sie das exklusive Recht einen privaten Badeplatz zu nutzen, der sich unmittelbar vor der Liegenschaft befindet.",
+	"adresse": {
+	  "strasse": "Luzernerstrasse",
+	  "hausnummer": "55",
+	  "gemeinde": "Kuessnacht",
+	  "plz": "6403"
+	},
+	"position": {
+	  "longitude": "8.431826",
+	  "latitude": "47.080054"
+	},
+	"preis": "3200000",
+	"anzahlZimmer": "5.5",
+	"wohnflaeche": "191",
+	"grundstuecksflaeche": "keine Angabe",
+	"verfuegbarkeit": "auf Anfrage",
+	"baujahr": "2008",
+	"ausstattung": {
+	  "lift": "false",
+	  "balkon": "true",
+	  "garten": "true"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Luzernerstrasse1.jpg",
+	  "1": "img/immobilien/Luzernerstrasse2.jpg",
+	  "2": "img/immobilien/Luzernerstrasse3.jpg"
+	}
+  },
+  {
+	"objektart": "Wohnung",
+	"titel": "Traumwohnung mit ausgezeichneter Seesicht",
+	"beschreibung": "Auf einer Wohnfläche von 181m² lässt es sich gut leben.Geniessen Sie von der Terrasse (37m²) die schöne Aussicht auf den Vierwaldstättersee und die Rigi. Hier verbringen Sie wunderbare Momente mit Familie und Freunde.",
+	"adresse": {
+	  "strasse": "Lindenweg",
+	  "hausnummer": "1",
+	  "gemeinde": "Kuessnacht",
+	  "plz": "6403"
+	},
+	"position": {
+	  "longitude": "8.432669",
+	  "latitude": "47.081663"
+	},
+	"preis": "2250000",
+	"anzahlZimmer": "5.5",
+	"wohnflaeche": "181",
+	"grundstuecksflaeche": "keine Angabe",
+	"verfuegbarkeit": "auf Anfrage",
+	"baujahr": "2017",
+	"ausstattung": {
+	  "lift": "false",
+	  "balkon": "true",
+	  "garten": "false"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Lindenweg1.jpg",
+	  "1": "img/immobilien/Lindenweg2.jpg",
+	  "2": "img/immobilien/Lindenweg3.jpg"
+	}
+  },
+  {
+	"objektart": "Haus",
+	"titel": "Ekstase über dem See",
+	"beschreibung": "Ein architektonischer Leckerbissen der besonderen Art freut sich im beschaulichen Greppen auf neue Besitzerschaft. Fernab vom baulichen Einheitsbrei entstand vor ein paar Jahren an dominanter Aussichtslage eine Villa der Extraklasse.",
+	"adresse": {
+	  "strasse": "Kleinrieden",
+	  "hausnummer": "28",
+	  "gemeinde": "Greppen",
+	  "plz": "6404"
+	},
+	"position": {
+	  "longitude": "8.434176",
+	  "latitude": "47.053874"
+	},
+	"preis": "2480000",
+	"anzahlZimmer": "4.5",
+	"wohnflaeche": "320",
+	"grundstuecksflaeche": "805",
+	"verfuegbarkeit": "auf Anfrage",
+	"baujahr": "2004",
+	"ausstattung": {
+	  "lift": "false",
+	  "balkon": "true",
+	  "garten": "true"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Kleinrieden1.jpg",
+	  "1": "img/immobilien/Kleinrieden2.jpg",
+	  "2": "img/immobilien/Kleinrieden3.jpg"
+	}
+  },
+  {
+	"objektart": "Haus",
+	"titel": "Einfamilienhaus mit Doppelgarage und Aussenschwimmbad",
+	"beschreibung": "Zu verkaufen an ruhiger Lage in Greppen/LU mit traumhaft schöner Seesicht und Westorientierung Richtung Abendsonne. Das freistehende Einfamilienhaus wurde 2006 mit klarer Volumetrie erstellt. Die Ausrichtung des Gebäudes verhält sich ideal zum ganztägigen Sonnenverlauf und dem sehr attraktiven Ausblick auf den Vierwaldstättersee und den Pilatus.",
+	"adresse": {
+	  "strasse": "Kleinrieden",
+	  "hausnummer": "24",
+	  "gemeinde": "Greppen",
+	  "plz": "6404"
+	},
+	"position": {
+	  "longitude": "8.433706",
+	  "latitude": "47.053547"
+	},
+	"preis": "2380000",
+	"anzahlZimmer": "7.5",
+	"wohnflaeche": "360",
+	"grundstuecksflaeche": "1210",
+	"verfuegbarkeit": "auf Anfrage",
+	"baujahr": "2006",
+	"ausstattung": {
+	  "lift": "false",
+	  "balkon": "true",
+	  "garten": "true"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Kleinrieden4.jpg",
+	  "1": "img/immobilien/Kleinrieden5.jpg",
+	  "2": "img/immobilien/Kleinrieden6.jpg"
+	}
+  },
+  {
+	"objektart": "Wohnung",
+	"titel": "Attikawohnung mit unverbaubarer Seesicht",
+	"beschreibung": "Die oberste, sehr grosszügige 4½ Zimmerwohnung hat eine Bruttowohnfläche von 212.7 m². Die zum See ausgerichtete Terrasse lädt mit 55.4 m² zum Verweilen ein. Seitlich und durch die Hanglage leicht geschützt, befindet sich ein Sitzplatz von 15.6 m².In die Wohnung gelangt man direkt per Lift aus der Tiefgarage oder alternativ über die seitliche Aussentreppe mit separatem Eingang. Der sehr helle und freundliche Eingangsbereich mit einer eingebauten Garderobe bietet viel Platz und Stauraum. Die offene, grosse Küche mit dem Essbereich ist vom Wohnbereich versetzt angeordnet. Ein schönes Cheminée mit Holznische trennt die beiden Räumlichkeiten voneinander ab.",
+	"adresse": {
+	  "strasse": "Kleinrieden",
+	  "hausnummer": "26",
+	  "gemeinde": "Greppen",
+	  "plz": "6404"
+	},
+	"position": {
+	  "longitude": "8.433932",
+	  "latitude": "47.053730"
+	},
+	"preis": "2070000",
+	"anzahlZimmer": "4.5",
+	"wohnflaeche": "213",
+	"grundstuecksflaeche": "keine Angabe",
+	"verfuegbarkeit": "auf Anfrage",
+	"baujahr": "2016",
+	"ausstattung": {
+	  "lift": "false",
+	  "balkon": "true",
+	  "garten": "false"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Kleinrieden7.jpg",
+	  "1": "img/immobilien/Kleinrieden8.jpg",
+	  "2": "img/immobilien/Kleinrieden9.jpg"
+	}
+  },
+  {
+	"objektart": "Wohnung",
+	"titel": "Einmaliger Luxus über dem Vierwaldstättersee",
+	"beschreibung": "An erhöhter, sonniger Ruhelage, im Gebiet Riedsort geniesst die zum Angebot stehende Residenz eine fantastische Aussicht auf den Vierwaldstättersee und die voralpine Landschaft. Das 2-Familienhaus wurde im Jahre 2008 gebaut und ist mit einer ökologischen Ersondenheizung mit separater Bodenkühlanlage ausgestattet. In der grossen Einstellhalle stehen Ihnen zwei Garagenplätze sowie ein Kellerraum zur Verfügung. Der hohe Ausbaustandard mit wohnungsinternem Lift, die moderne Technik mit eingebauter multiroom Musikanlage und Alarmsystem sind weitere Annehmlichkeiten dieses Luxusdomizils.",
+	"adresse": {
+	  "strasse": "Blauweidweg",
+	  "hausnummer": "2",
+	  "gemeinde": "Weggis",
+	  "plz": "6353"
+	},
+	"position": {
+	  "longitude": "8.438008",
+	  "latitude": "47.033004"
+	},
+	"preis": "2880000",
+	"anzahlZimmer": "5.5",
+	"wohnflaeche": "250",
+	"grundstuecksflaeche": "keine Angabe",
+	"verfuegbarkeit": "auf Anfrage",
+	"baujahr": "2008",
+	"ausstattung": {
+	  "lift": "true",
+	  "balkon": "true",
+	  "garten": "false"
+	},
+	"bilder": {
+	  "0": "img/immobilien/Blauweidweg1.jpg",
+	  "1": "img/immobilien/Blauweidweg2.jpg",
+	  "2": "img/immobilien/Blauweidweg3.jpg"
+	}
+  }
+]
