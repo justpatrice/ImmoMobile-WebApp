@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <!-- utf-8 -->
+        <meta charset="utf-8">
+        <!-- stop zoom -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Gruppenmitglieder-->
+        <meta name="author" content="Gruppe1, Patrice Weber, Christian Bieri, Stephan Renggli, Timothy Jung">
+        <!-- favicon -->
+        <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+        <link rel="manifest" href="img/favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <title>ImmoMobile - Make it yours!</title>
+        <!-- 1. css jquery Mobile -->
+        <link rel="stylesheet" href="lib/jquery/jquery.mobile-1.4.5.min.css"/>
+        <link rel="stylesheet" href="css/main.css">
+
+        <!-- swiper -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
+
+    </head>
+
+    <body>
+
+        <!-- PAGE INDEX -->
+        <section data-role="page" id="page-index" data-title="ImmoMobile - Make it yours !">
+
+            <!-- Slider main container -->
+            <div class="swiper-container">
+                <!-- Additional required wrapper -->
+                <div class="swiper-wrapper">
+                    <!-- Slides -->
+                    <div class="swiper-slide"><img src="img/slider/slider_1.jpg" ></div>
+                    <div class="swiper-slide"><img src="img/slider/Slider_2.jpg" ></div>
+                    <div class="swiper-slide"><img src="img/slider/Slider_3.jpg" ></div>
+                </div>
+            </div>
+
+           <!-- CONTENT -->
+            <article class="ui-content">
+                <div data-role="collapsible" data-collapsed="true" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
+                    <h2>Suchprofil anlegen / Suche</h2>
+					
+					<form action="search.php" method="get" target="search.php">
+                    <div>
+                        <select name="selectGemeinde" id="selectGemeinde" data-iconpos="left">
+                            <option value="all">Alle Gemeinden</option>
+                            <option value="Luzern">Gemeinde Luzern</option>
+                            <option value="Meggen">Gemeinde Meggen</option>
+                            <option value="Kuessnacht">Gemeinde Küssnacht</option>
+                            <option value="Greppen">Gemeinde Greppen</option>
+                            <option value="Weggis">Gemeinde Weggis</option>
+                        </select>
+                    </div>
+					
+                    <div>
+                        <select name="selectTyp" id="selectTyp" data-iconpos="left">
+                            <option value="all">Haus / Wohnung</option>
+                            <option value="Haus">Haus</option>
+                            <option value="Wohnung">Wohnung</option>
+                        </select>
+                    </div>
+					
+                    <div>
+                        <select name="selectZimmer" id="selectZimmer" data-iconpos="left">
+                            <option value="0">Alle Zimmergrössen</option>
+                            <option value="1">1-Zimmer</option>
+                            <option value="1.5">1.5-Zimmer</option>
+                            <option value="2">2-Zimmer</option>
+                            <option value="2.5">2.5-Zimmer</option>
+                            <option value="3">3-Zimmer</option>
+                            <option value="3.5">3.5-Zimmer</option>
+                            <option value="4">4-Zimmer</option>
+                            <option value="4.5">4.5-Zimmer</option>
+                            <option value="5">5-Zimmer</option>
+                            <option value="5.5">5.5-Zimmer</option>
+                            <option value="6">6-Zimmer</option>
+                            <option value="6.5">6.5-Zimmer</option>
+                            <option value="7">+7-Zimmer</option>
+                        </select>
+                    </div>
+                    
+                    <div>
+                        <center>
+                        <label>Mindestwohnlf&auml;che in m<sup>2</sup></label>
+                        </center>
+                        <input type="range" name="sliderFlaeche" id="sliderFlaeche" min="100" max="600" value="100" step="10" data-highlight="true"/>                  
+                    </div>
+                    
+                    <div>
+                        <center>
+                        <label>Maximalpreis in HTCH</label>
+                        </center>
+                        <input type="range" name="sliderPreis" id="sliderPreis" min="1" max="100" value="50" step="1" data-highlight="true"/>                  
+                     <br>
+                    </div>
+					<input type="submit" value="Immobilien Suchen">
+					</form>
+                    <br>
+                    
+                    <div id="btnLoadProfileContainer">
+                        <input type="button" id="btnLoadProfile" value="Suchprofil laden" onClick="loadProfil();"/>
+                    </div>
+                    <div>
+                        <input type="button" id="btnResetProfile" value="Suchprofil zurücksetzen" onClick="resetProfil();"/>
+                    </div>
+                </div>
+
+            </article>
+
+            <!-- FOOTER -->
+            <footer data-role="footer">
+                <h6>2017 ImmoMobile</h6>
+            </footer>
+
+        </section>
+
+        <!-- JAVASCRIPT -->
+        <!-- jquery -->
+        <script type="text/javascript" src="lib/jquery/jquery-2.2.4.min.js"></script>
+        <script type="text/javascript" src="lib/jquery/jquery.mobile-1.4.5.min.js"></script>
+
+        <!-- maps -->
+        <script type="text/javascript"
+                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZDsGJnpCjTrNtKQm4ztj1FAW08Itwgao&v=3"></script>
+
+        <!-- controller -->
+        <script type="text/javascript" src="js/controller.js"></script>
+
+        <!-- model -->
+        <script type="text/javascript" src="model/gemeinde.json"></script>
+        <script type="text/javascript" src="model/immobilien.json"></script>
+
+        <!-- swiper -->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+		<script>
+        $(document).ready(function() { var swiper_index = new Swiper('.swiper-container', {
+        centeredSlides: true,
+        autoplay: 5000,
+        autoplayDisableOnInteraction: false,
+        loop: true,
+        effect: 'fade',
+        speed: 1000
+		}) });
+		
+		</script>
+
+    </body>
+
+</html>
